@@ -53,6 +53,7 @@ with a custom `C-.` binding.
 <a id="orgaa2b545"></a>
 
 # Excerpt from `init.el`:
+
 ```emacs-lisp
       (use-package dired
         :config
